@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="modules">
+    <file>pixmap/esp12.png</file>
+    <file>pixmap/TIB_Series_Power_Supplies.png</file>
+  </qresource>
+  <qresource prefix="scenaries">
+    <file>pixmap/sc_reg_90.png</file>
+    <file>pixmap/sc_reg.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>pixmap/add_photo_48_act.png</file>
+    <file>pixmap/add_photo_48.png</file>
+  </qresource>
+  <qresource prefix="groups">
+    <file>pixmap/group_def.png</file>
+  </qresource>
+  <qresource prefix="sensors">
+    <file>pixmap/termo_blck_48.gif</file>
+  </qresource>
+</RCC>
